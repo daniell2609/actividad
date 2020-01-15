@@ -16,6 +16,7 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         System.out.println("Es miercoles");
+        System.out.println("Soy José");
     }
     
 }
