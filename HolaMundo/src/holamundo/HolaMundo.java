@@ -20,6 +20,8 @@ public class HolaMundo {
         System.out.println("Soy Jose");
         
         System.out.println("Soy José");
+        System.out.println("Hoy es jueves");
+        System.out.println("Mañana es viernes");
     }
     
 }
